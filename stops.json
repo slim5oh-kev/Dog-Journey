@@ -1,0 +1,52 @@
+{
+  "stops": [
+    {
+      "order": 1,
+      "city": "Johns Island",
+      "region": "SC",
+      "country": "USA",
+      "date": "2026-01-17",
+      "note": "The journey begins!",
+      "lat": 32.7024009,
+      "lng": -80.0481488,
+      "photo": "images/01-johns-island-64gqg.jpg",
+      "thumb": "thumbs/01-johns-island-64gqg.jpg"
+    },
+    {
+      "order": 2,
+      "city": "Knoxville",
+      "region": "TN",
+      "country": "USA",
+      "date": "2026-01-18",
+      "note": "Loaded and ready to go!",
+      "lat": 35.9603948,
+      "lng": -83.9210261,
+      "photo": "images/02-knoxville-flocw.jpg",
+      "thumb": "thumbs/02-knoxville-flocw.jpg"
+    },
+    {
+      "order": 3,
+      "city": "Nashville",
+      "region": "TN",
+      "country": "USA",
+      "date": "2026-01-18",
+      "note": "Got that Hattie's goodness!",
+      "lat": 36.1622767,
+      "lng": -86.7742984,
+      "photo": "images/03-nashville-do7y1.jpg",
+      "thumb": "thumbs/03-nashville-do7y1.jpg"
+    },
+    {
+      "order": 4,
+      "city": "Memphis",
+      "region": "TN",
+      "country": "USA",
+      "date": "2026-01-18",
+      "note": "Gotta pay tribute to the King!",
+      "lat": 35.1460249,
+      "lng": -90.0517638,
+      "photo": "images/04-memphis-t4pa4.jpg",
+      "thumb": "thumbs/04-memphis-t4pa4.jpg"
+    }
+  ]
+}
