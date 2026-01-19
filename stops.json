@@ -47,6 +47,66 @@
       "lng": -90.0517638,
       "photo": "images/04-memphis-t4pa4.jpg",
       "thumb": "thumbs/04-memphis-t4pa4.jpg"
+    },
+    {
+      "order": 5,
+      "city": "Little Rock",
+      "region": "AR",
+      "country": "USA",
+      "date": "2026-01-18",
+      "note": "No idea who this guy is.",
+      "lat": 34.7465071,
+      "lng": -92.2896267,
+      "photo": "images/05-little-rock-439uc.jpg",
+      "thumb": "thumbs/05-little-rock-439uc.jpg"
+    },
+    {
+      "order": 6,
+      "city": "Dallas",
+      "region": "TX",
+      "country": "USA",
+      "date": "2026-01-19",
+      "note": "The boys had to stop and pay tribute to the Cowboys.",
+      "lat": 32.7762719,
+      "lng": -96.7968559,
+      "photo": "images/06-dallas-tvqrd.jpg",
+      "thumb": "thumbs/06-dallas-tvqrd.jpg"
+    },
+    {
+      "order": 7,
+      "city": "Houston",
+      "region": "TX",
+      "country": "USA",
+      "date": "2026-01-19",
+      "note": "Turning south now, the boys ran across this guy, who offered them jobs as \"roughnecks\", whatever that means.",
+      "lat": 29.7589382,
+      "lng": -95.3676974,
+      "photo": "images/07-houston-lvbp4.jpg",
+      "thumb": "thumbs/07-houston-lvbp4.jpg"
+    },
+    {
+      "order": 8,
+      "city": "Corpus Christi",
+      "region": "TX",
+      "country": "USA",
+      "date": "2026-01-19",
+      "note": "The boys were mad that they skipped Louisiana, so they found a bayou in Texas instead!",
+      "lat": 27.7635302,
+      "lng": -97.4033191,
+      "photo": "images/08-corpus-christi-aahbq.jpg",
+      "thumb": "thumbs/08-corpus-christi-aahbq.jpg"
+    },
+    {
+      "order": 9,
+      "city": "Matamoros",
+      "region": "Tamaulipas",
+      "country": "MX",
+      "date": "2026-01-19",
+      "note": "They've made it across the Mexican border!  Looks like they immediately made friends with a local.",
+      "lat": 25.8810158,
+      "lng": -97.5064866,
+      "photo": "images/09-matamoros-ugxp7.jpg",
+      "thumb": "thumbs/09-matamoros-ugxp7.jpg"
     }
   ]
 }
