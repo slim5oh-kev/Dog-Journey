@@ -119,6 +119,54 @@
       "lng": -97.981607,
       "photo": "images/10-san-fernando-pc1mj.jpg",
       "thumb": "thumbs/10-san-fernando-pc1mj.jpg"
+    },
+    {
+      "order": 11,
+      "city": "Tampico",
+      "region": "Tamaulipas",
+      "country": "MX",
+      "date": "2026-01-20",
+      "note": "Hugging the beach now, the boys had to indulge a little.",
+      "lat": 22.2701096,
+      "lng": -97.8948674,
+      "photo": "images/11-tampico-88evk.jpg",
+      "thumb": "thumbs/11-tampico-88evk.jpg"
+    },
+    {
+      "order": 12,
+      "city": "Veracruz",
+      "region": "Veracruz",
+      "country": "MX",
+      "date": "2026-01-20",
+      "note": "Now into Veracruz State, the boys got to take a little walk.  You can see their sweet ride here as well!  (Real photo)",
+      "lat": 19.2003429,
+      "lng": -96.1383572,
+      "photo": "images/12-veracruz-rxulm.jpg",
+      "thumb": "thumbs/12-veracruz-rxulm.jpg"
+    },
+    {
+      "order": 13,
+      "city": "Minatitlan",
+      "region": "Veracruz",
+      "country": "MX",
+      "date": "2026-01-20",
+      "note": "It's not all fun, games, and beaches.  Now the boys take a gander at some local history!",
+      "lat": 17.992773,
+      "lng": -94.5567103,
+      "photo": "images/13-minatitlan-o0v2u.jpg",
+      "thumb": "thumbs/13-minatitlan-o0v2u.jpg"
+    },
+    {
+      "order": 14,
+      "city": "Ciudad del Carmen",
+      "region": "Campeche",
+      "country": "MX",
+      "date": "2026-01-20",
+      "note": "Now they've moved into Campeche State and got to walk on a real Mexican beach (real photo)!",
+      "lat": 18.651739,
+      "lng": -91.81492,
+      "photo": "images/14-ciudad-del-carmen-uk5dd.jpg",
+      "thumb": "thumbs/14-ciudad-del-carmen-uk5dd.jpg"
     }
   ]
 }
