@@ -167,6 +167,18 @@
       "lng": -91.81492,
       "photo": "images/14-ciudad-del-carmen-0kdrc.jpg",
       "thumb": "thumbs/14-ciudad-del-carmen-0kdrc.jpg"
+    },
+    {
+      "order": 15,
+      "city": "Merida",
+      "region": "Yukatan",
+      "country": "MX",
+      "date": "2026-01-20",
+      "note": "The boys have reached their final major city in Mexico, Merida!  Fun fact:  Merida is only just over 1,000 miles as the crow flies from Charleston, however the boys have now traveled over 2,800 miles on their journey to get there!",
+      "lat": 20.9670759,
+      "lng": -89.6237402,
+      "photo": "images/15-merida-47v6n.jpg",
+      "thumb": "thumbs/15-merida-47v6n.jpg"
     }
   ]
 }
