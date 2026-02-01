@@ -227,6 +227,18 @@
       "lng": -88.0250839,
       "photo": "images/19-san-pedro-sula-zadhq.jpg",
       "thumb": "thumbs/19-san-pedro-sula-zadhq.jpg"
+    },
+    {
+      "order": 20,
+      "city": "Tegucigalpa",
+      "region": "Francisco Morazán",
+      "country": "HN",
+      "date": "2026-01-31",
+      "note": "Bentley and Duke are home!  After nearly 2 weeks and over 3,700 miles, they arrive to big hugs and a nice new yard to play in!  Welcome home, boys!",
+      "lat": 14.1058135,
+      "lng": -87.2047053,
+      "photo": "images/20-tegucigalpa-xs753.jpg",
+      "thumb": "thumbs/20-tegucigalpa-xs753.jpg"
     }
   ]
 }
