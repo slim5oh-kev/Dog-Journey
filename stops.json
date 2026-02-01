@@ -171,14 +171,62 @@
     {
       "order": 15,
       "city": "Merida",
-      "region": "Yukatan",
+      "region": "Yucatan",
       "country": "MX",
       "date": "2026-01-20",
-      "note": "The boys have reached their final major city in Mexico, Merida!  Fun fact:  Merida is only just over 1,000 miles as the crow flies from Charleston, however the boys have now traveled over 2,800 miles on their journey to get there!",
+      "note": "The boys made it to Merida and ran into car trouble.  Little did they know that they'd be spending the next week there!",
       "lat": 20.9670759,
       "lng": -89.6237402,
-      "photo": "images/15-merida-47v6n.jpg",
-      "thumb": "thumbs/15-merida-47v6n.jpg"
+      "photo": "images/15-merida-qmng6.jpg",
+      "thumb": "thumbs/15-merida-qmng6.jpg"
+    },
+    {
+      "order": 16,
+      "city": "Riviera Maya",
+      "region": "Quintana Roo",
+      "country": "MX",
+      "date": "2026-01-30",
+      "note": "They're finally back on the road!  They swung by Riviera Maya to see the beach where mom and dad got married!",
+      "lat": 20.621933,
+      "lng": -87.0757075,
+      "photo": "images/16-riviera-maya-ejesl.jpg",
+      "thumb": "thumbs/16-riviera-maya-ejesl.jpg"
+    },
+    {
+      "order": 17,
+      "city": "Belize City",
+      "region": "Belize",
+      "country": "BZ",
+      "date": "2026-01-30",
+      "note": "The boys have entered Belize and went to check out the famous Blue Hole!",
+      "lat": 17.5000723,
+      "lng": -88.2002912,
+      "photo": "images/17-belize-city-bos7g.jpg",
+      "thumb": "thumbs/17-belize-city-bos7g.jpg"
+    },
+    {
+      "order": 18,
+      "city": "Modesto Mendez",
+      "region": "Izabal",
+      "country": "GT",
+      "date": "2026-01-31",
+      "note": "Bentley and Duke have made it to Guatamala!  Might as well enjoy some good coffee!",
+      "lat": 15.8952092,
+      "lng": -89.2293413,
+      "photo": "images/18-modesto-mendez-qwb3g.jpg",
+      "thumb": "thumbs/18-modesto-mendez-qwb3g.jpg"
+    },
+    {
+      "order": 19,
+      "city": "San Pedro Sula",
+      "region": "Cortes",
+      "country": "HN",
+      "date": "2026-01-31",
+      "note": "The boys are finally in Honduras!  So close to home!  But they made a stop in San Pedro Sula to check out a local market.",
+      "lat": 15.5053535,
+      "lng": -88.0250839,
+      "photo": "images/19-san-pedro-sula-zadhq.jpg",
+      "thumb": "thumbs/19-san-pedro-sula-zadhq.jpg"
     }
   ]
 }
